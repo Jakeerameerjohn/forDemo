@@ -1,6 +1,6 @@
 a=16
-b=5
-c=1
+b=50
+c=10
 add=a+b+c
 mul=a*b*c
 print(add)
